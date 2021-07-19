@@ -12,6 +12,5 @@ Chatrobot是关于学校招生的对话机器人
 
 
 
-![屏幕截图 2021-07-15 094846](https://user-images.githubusercontent.com/49465805/126176265-72792193-5800-423b-b60f-bc6cac6b0b31.png)
 
 
