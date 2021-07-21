@@ -13,7 +13,7 @@ Chatrobot是学校的企业微信平台关于招生的对话机器人。
 
 目前进度:已在企业微信的机器人中实现通过问答对的方式实现简易的“对话”。
 
-![屏幕截图 2021-07-21 215805](https://user-images.githubusercontent.com/49465805/126506538-accf127f-5299-46f8-980f-44b6650ddff7.png)
+![屏幕截图 2021-07-21 215805](https://user-images.githubusercontent.com/49465805/126508265-a9f5373d-1678-47a6-9d7c-b047572d098c.png)
 
 
 存在问题：暂未实现前端交互。
